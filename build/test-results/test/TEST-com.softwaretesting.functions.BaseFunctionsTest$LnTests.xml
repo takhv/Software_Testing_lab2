@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ln(x) Tests" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-04-24T03:55:41.702Z" hostname="DESKTOP-89K76RS" time="0.028">
+<testsuite name="ln(x) Tests" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-04-28T18:23:01.116Z" hostname="DESKTOP-89K76RS" time="0.018">
   <properties/>
   <testcase name="ln(0) should throw IllegalArgumentException" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
   <testcase name="ln(x*y) = ln(x) + ln(y)" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
   <testcase name="ln(e) should equal 1" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
-  <testcase name="ln(1) should equal 0" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.002"/>
+  <testcase name="ln(1) should equal 0" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
   <testcase name="ln(negative) should throw IllegalArgumentException" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
-  <testcase name="[1] 0.5, -0.69315" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.003"/>
-  <testcase name="[2] 2.0, 0.69315" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
-  <testcase name="[3] 10.0, 2.30259" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.002"/>
+  <testcase name="[1] 0.5, -0.69315" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.004"/>
+  <testcase name="[2] 2.0, 0.69315" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.0"/>
+  <testcase name="[3] 10.0, 2.30259" classname="com.softwaretesting.functions.BaseFunctionsTest$LnTests" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
