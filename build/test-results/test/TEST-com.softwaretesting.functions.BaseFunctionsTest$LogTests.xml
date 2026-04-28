@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="log(x, base) Tests" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-04-24T03:55:41.561Z" hostname="DESKTOP-89K76RS" time="0.136">
+  <properties/>
+  <testcase name="log(x, base=1) should throw IllegalArgumentException" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.019"/>
+  <testcase name="log(x, base&lt;=0) should throw IllegalArgumentException" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.001"/>
+  <testcase name="log_2(1) should equal 0" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.004"/>
+  <testcase name="log_2(2) should equal 1" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.001"/>
+  <testcase name="[1] 0.1, 2, -3.3219" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.045"/>
+  <testcase name="[2] 4.0, 2, 2.0" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.001"/>
+  <testcase name="[3] 100.0, 10, 2.0" classname="com.softwaretesting.functions.BaseFunctionsTest$LogTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

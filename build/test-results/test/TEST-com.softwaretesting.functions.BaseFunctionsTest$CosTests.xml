@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cos(x) Tests" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-04-24T03:55:41.745Z" hostname="DESKTOP-89K76RS" time="0.028">
+  <properties/>
+  <testcase name="[1] 0.0" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.004"/>
+  <testcase name="[2] 0.7853981633974483" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <testcase name="[3] 1.5707963267948966" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <testcase name="[4] 3.141592653589793" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <testcase name="cos(pi) should equal -1" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.0"/>
+  <testcase name="cos(pi/2) should equal 0" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <testcase name="cos is even function: cos(-x) = cos(x)" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <testcase name="cos is periodic with period 2pi" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <testcase name="cos(0) should equal 1" classname="com.softwaretesting.functions.BaseFunctionsTest$CosTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

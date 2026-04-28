@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sec(x) Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-24T03:55:41.732Z" hostname="DESKTOP-89K76RS" time="0.011">
+  <properties/>
+  <testcase name="sec near pi/2 should throw or return large value" classname="com.softwaretesting.functions.BaseFunctionsTest$SecTests" time="0.002"/>
+  <testcase name="sec should work for valid negative values" classname="com.softwaretesting.functions.BaseFunctionsTest$SecTests" time="0.002"/>
+  <testcase name="sec(0) should equal 1" classname="com.softwaretesting.functions.BaseFunctionsTest$SecTests" time="0.001"/>
+  <testcase name="sec(x) = 1/cos(x)" classname="com.softwaretesting.functions.BaseFunctionsTest$SecTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
